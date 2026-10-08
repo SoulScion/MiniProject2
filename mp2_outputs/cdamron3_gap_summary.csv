@@ -1,0 +1,11 @@
+Project;LongestGapStart;LongGapEnd;LongestGapLength;NumCommitsAfterGap;NumGapsTimeline
+jhuapl-boss_intern;2024-01;2024-05;5;20;6
+jonescompneurolab_hnn;2022-09;2023-09;13;73;3
+lpwgroup_crank;2022-04;2023-03;12;20;6
+marianattestad_ribbon;2017-11;2019-09;23;302;7
+mirnylab_cooler;2021-05;2021-10;6;401;5
+privefl_bigstatsr;2022-11;2023-11;13;31;4
+rveltz_piecewisedeterministicmarkovprocesses.jl;2022-11;2023-12;14;42;10
+stan-dev_cmdstanpy;2024-07;2024-08;2;231;0
+thelfer_mfrontgenericinterfacesupport;2022-07;2022-11;5;343;2
+xeokit_xeokit-sdk;;;0;0;0
