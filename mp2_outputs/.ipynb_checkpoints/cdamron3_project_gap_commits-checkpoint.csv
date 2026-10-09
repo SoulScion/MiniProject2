@@ -1,0 +1,416 @@
+pre/post;project;commit;author;time;message
+pre;jhuapl-boss_intern;34f335d7740df3e911a04d9674c1d38267e53065;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2023-03-03 14:53:36;Update README.md
+pre;jhuapl-boss_intern;80918857a2a90d0072d1b92552a6c91497b58c2e;Jordan Matelsky <j6k4m8@gmail.com>;2023-03-03 14:56:31;"v1.4.1
+"
+pre;jhuapl-boss_intern;29da7c9518cdfc5554e5406e6e69c1eae2b8c0d9;Daniel Xenes <daniel.xenes@jhuapl.edu>;2023-06-22 18:19:43;"fix single index cutouts
+"
+pre;jhuapl-boss_intern;b90e209c531b76573175e373c3d92d723729bf10;dxenes1 <39000785+dxenes1@users.noreply.github.com>;2023-06-23 14:59:52;"fix single index cutouts (#108)
+
+"
+pre;jhuapl-boss_intern;a3e6c53b8c7eb032fe413977696980747926cef0;Jordan Matelsky <j6k4m8@gmail.com>;2023-11-07 11:02:09;"Add public visibility toggle on BossRemote
+"
+pre;jhuapl-boss_intern;9d45c67cdfc3f5eb92ca707ebdb7b358c3c17686;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2023-11-09 19:08:29;"Add public visibility toggle on BossRemote (#109)
+
+"
+pre;jhuapl-boss_intern;cce267f045d2ba2508cdd80ce518db300d3d6c3f;Jordan Matelsky <j6k4m8@gmail.com>;2023-11-27 15:40:02;"Add user-agent to outgoing BossDB remote calls
+"
+pre;jhuapl-boss_intern;15073c6eed12e1372e2d0448ed1e874df827b3ba;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2023-11-28 11:39:33;"Add user-agent to outgoing BossDB remote calls (#110)
+
+"
+pre;jhuapl-boss_intern;ca78221a4cc1363451e052c9663f34486d68892b;Daniel Xenes <39000785+dxenes1@users.noreply.github.com>;2023-12-08 05:26:43;"Merge 2f4f29d3f929a28372bce13f68170633462fc291 into 15073c6eed12e1372e2d0448ed1e874df827b3ba
+"
+pre;jhuapl-boss_intern;53c76289b0e24fc34e91bcbdb5c0b850c55c04df;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2023-12-08 05:26:43;"Merge 5385dfea5e8e214d432ac74fb4aa8081bb70d76d into 15073c6eed12e1372e2d0448ed1e874df827b3ba
+"
+post;jhuapl-boss_intern;1976e25f2a2dabd5d9c0d60aa0809c5d529d914b;Jordan Matelsky <j6k4m8@gmail.com>;2024-06-03 01:31:07;"Add fix for link generation with CloudVolume-backing
+"
+post;jhuapl-boss_intern;1a743cffae73f262d241334fd0edfbc263eb961d;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2024-06-04 19:48:14;"Add fix for link generation with CloudVolume-backing (#113)
+
+"
+post;jhuapl-boss_intern;e4c457e68adee04479948cdd580955318d077445;Daniel Xenes <daniel.xenes@jhuapl.edu>;2024-10-31 20:59:33;"fix cv remote instantiation
+"
+post;jhuapl-boss_intern;4ca2b1bf5fb82163bb9dc1889ba3b5113ba416ae;Daniel Xenes <39000785+dxenes1@users.noreply.github.com>;2024-11-01 19:48:15;"fix cv remote instantiation (#117)
+
+"
+post;jhuapl-boss_intern;2a48b9168767080e2576ccef2b663aa606edf419;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2024-11-30 20:04:22;"Merge 5385dfea5e8e214d432ac74fb4aa8081bb70d76d into 4ca2b1bf5fb82163bb9dc1889ba3b5113ba416ae
+"
+post;jhuapl-boss_intern;f2ce99466e998b45d856bde9b88e54823f881e7d;Daniel Xenes <39000785+dxenes1@users.noreply.github.com>;2024-11-30 20:04:59;"Merge 2f4f29d3f929a28372bce13f68170633462fc291 into 4ca2b1bf5fb82163bb9dc1889ba3b5113ba416ae
+"
+post;jhuapl-boss_intern;f6b439b30fbc625dac11d4c668c1fef60b0d973e;Jordan Matelsky <j6k4m8@gmail.com>;2025-02-05 22:39:03;"fix: Support creating new resources with BossDB volume provider
+"
+post;jhuapl-boss_intern;d33a04a39831a6efe0a098fd8e43b029818a1e9d;Jordan Matelsky <j6k4m8@gmail.com>;2025-02-05 22:42:08;"ci: Update the versions of Python tested for
+"
+post;jhuapl-boss_intern;5a45c729561e2236f1c970e469d7f39582341ec0;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2025-02-05 22:57:17;Update tests.yml
+post;jhuapl-boss_intern;6d505cb835b17b48598ca5098d4b231827e97065;Jordan Matelsky <j6k4m8@users.noreply.github.com>;2025-02-07 20:35:00;Update tests.yml
+pre;jonescompneurolab_hnn;e6569734245c5134cdfdcad1ad21b816c1abb46a;rythorpe <ryan_thorpe@brown.edu>;2022-07-27 05:37:22;"minor edits
+"
+pre;jonescompneurolab_hnn;8b38515bf219db9237b6acf0f9f0261481e1aa04;rythorpe <ryan_thorpe@brown.edu>;2022-07-27 05:37:22;"minor edits
+"
+pre;jonescompneurolab_hnn;90884071c004083673970b93036d1b8cc2df8a5b;rythorpe <ryan_thorpe@brown.edu>;2022-07-27 05:45:10;"more wording issues
+"
+pre;jonescompneurolab_hnn;7624ef10c4b47d365de4c6a2701acd09fe2bced0;rythorpe <ryan_thorpe@brown.edu>;2022-07-27 05:45:10;"more wording issues
+"
+pre;jonescompneurolab_hnn;c36380ff8833a39447e7cd1e48359ea158c898a5;rythorpe <ryan_thorpe@brown.edu>;2022-08-18 00:48:38;"DOC: instruct user to download environment.yml from master branch
+"
+pre;jonescompneurolab_hnn;c758ea9a95c078f317e2a52d682e1e3460822b31;rythorpe <ryan_thorpe@brown.edu>;2022-08-18 00:48:38;"DOC: instruct user to download environment.yml from master branch
+"
+pre;jonescompneurolab_hnn;49e553c0d3b9ac8b7f64f01e72e90f690525f89f;rythorpe <ryan_thorpe@brown.edu>;2022-08-18 00:51:30;"DOC: set DYLD_FALLBACK_LIBRARY_PATH instead of DYLD_LIBRARY_PATH
+"
+pre;jonescompneurolab_hnn;301c5b7a16cef9b4d88db8d455f47b3699da762c;rythorpe <ryan_thorpe@brown.edu>;2022-08-18 00:51:30;"DOC: set DYLD_FALLBACK_LIBRARY_PATH instead of DYLD_LIBRARY_PATH
+"
+pre;jonescompneurolab_hnn;70a8258bd9bbf05724ddf3627bd8eb820f37f045;Mainak Jas <mainakjas@gmail.com>;2022-08-26 21:50:43;"WIP: hnn-core compatibility
+"
+pre;jonescompneurolab_hnn;cbaf8ddd8dcb619dd39586afbbec52b59f7fa5f9;Mainak Jas <jasmainak@users.noreply.github.com>;2022-08-26 21:53:02;"Merge 70a8258bd9bbf05724ddf3627bd8eb820f37f045 into 49e553c0d3b9ac8b7f64f01e72e90f690525f89f
+"
+post;jonescompneurolab_hnn;8314d5d36f695d300cca2b104e20c8c8bcacbbc6;Josh <joshua_lu1@brown.edu>;2023-10-26 19:27:45;"build: update dockerfile
+"
+post;jonescompneurolab_hnn;4135761f828f13de7a626d6d10d7c05e333995de;Josh <joshua_lu1@brown.edu>;2023-10-26 19:28:10;"build: update path to xquartz preferences file
+"
+post;jonescompneurolab_hnn;7554bbb95e41399ea476d687d1a19ba006fa0b7f;Josh <joshua_lu1@brown.edu>;2023-10-26 20:52:02;"build: update dockerfile
+"
+post;jonescompneurolab_hnn;879f5604c69ae9367814e2cd370fe8e82c87ddad;Josh <joshua_lu1@brown.edu>;2023-10-26 20:52:02;"build: update dockerfile
+"
+post;jonescompneurolab_hnn;9cdcd5beee2b6feb81c54e7fa327756045c23e74;Josh <joshua_lu1@brown.edu>;2023-10-26 20:55:18;"build: update xquartz preferences plist filename
+"
+post;jonescompneurolab_hnn;e9dd3a92e46880af2708ab14dc35e9330f6737ec;Josh <joshua_lu1@brown.edu>;2023-10-26 20:55:18;"build: update xquartz preferences plist filename
+"
+post;jonescompneurolab_hnn;e703cbf4fb71538061b58056a58d953ae3ce51d1;jashlu <joshlu9@gmail.com>;2023-11-07 18:54:59;"updated dockerfile and plist filename
+"
+post;jonescompneurolab_hnn;0516222c77772d0439816ba914149211bdeb2272;jashlu <joshlu9@gmail.com>;2023-11-07 18:54:59;"updated dockerfile and plist filename
+"
+post;jonescompneurolab_hnn;34aec84f9322b9804df27aa85aebd659617a1ff4;Josh <joshua_lu1@brown.edu>;2023-11-07 19:00:32;"refactor: update README
+"
+post;jonescompneurolab_hnn;2fd2cbcbb4fc36fb89323be5c9814442acf02d67;Josh <joshua_lu1@brown.edu>;2023-11-07 19:00:32;"refactor: update README
+"
+pre;lpwgroup_crank;fbfbe7cb255598797c9156c141c0f8809457ba05;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-19 12:09:26;"Update qm_engine.py
+"
+pre;lpwgroup_crank;6440fbce95441ecdd9a07cbda7ab985842866aff;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-24 14:02:23;Update qm_engine.py
+pre;lpwgroup_crank;5b7d353e5681c50b2454f336910d9ed96204c656;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-24 14:17:51;Update qm_engine.py
+pre;lpwgroup_crank;6f38be241d8bae8cfbdf8cb71efbd845f876ca81;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-24 14:18:58;Update qm_engine.py
+pre;lpwgroup_crank;1e251ed0583f036ee7f11838cf55eeca1736e40a;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-24 14:19:21;Update qm_engine.py
+pre;lpwgroup_crank;43f3a64f3b64e1bfa70cb0de04353f3a3ca503af;Zhiyi Wu <zhiyi.wu@bioch.ox.ac.uk>;2022-01-24 14:23:17;Update test_qm_engine.py
+pre;lpwgroup_crank;951200778c0228d60486cf71b179bd422440e107;Lee-Ping Wang <leeping@ucdavis.edu>;2022-01-29 05:30:21;"Merge pull request #71 from xiki-tempula/patch-2
+
+Allow ""Optimization completed on the basis of negligible forces."" to be accepted"
+pre;lpwgroup_crank;5dc7e17ab3041adbf876ffe8d7cc407d17ce5681;Lee-Ping Wang <leeping@ucdavis.edu>;2022-01-29 05:30:43;"Merge pull request #69 from xiki-tempula/patch-1
+
+Fix the Gaussian 2D scan"
+pre;lpwgroup_crank;8d0fcae4df5a6ced63350e424f7bba991f0c1b8a;Lee-Ping Wang <leeping@ucdavis.edu>;2022-01-29 05:33:25;"Merge pull request #65 from xiki-tempula/master
+
+Allow the Gaussian input file with four terms in the command line to be read"
+pre;lpwgroup_crank;d56c63036406cf4dff43649d39e8eca08bbd297d;Zhiyi Wu <zwu@exscientia.ai>;2022-03-18 13:29:42;"update
+"
+post;lpwgroup_crank;c5cc8b5fe8016c4e91393a2526faffeaa6f9e24d;Zhiyi Wu <zwu@exscientia.ai>;2023-04-08 08:45:09;"Update torsiondrive/qm_engine.py
+
+Co-authored-by: Sebastian Ehlert <28669218+awvwgk@users.noreply.github.com>"
+post;lpwgroup_crank;a8f8cd39e0d07b13bded023ef1fd51c2646cd5a0;William (Zhiyi) Wu <william@zhiyiwu.me>;2023-04-08 08:58:43;"update
+
+"
+post;lpwgroup_crank;c02bede6635f0d8bc8e3d866262215861cf1a86c;Zhiyi Wu <zwu@exscientia.co.uk>;2023-05-31 17:21:15;"remove core and add a warning
+
+"
+post;lpwgroup_crank;302bc23ff35785b54210d2ae3ff20112eecb0780;Zhiyi Wu <zwu@exscientia.co.uk>;2023-05-31 17:27:23;"fix typo
+
+"
+post;lpwgroup_crank;719968c4910f1ecf4f945534acd49c84b47bc8b7;Lee-Ping Wang <leeping@ucdavis.edu>;2023-06-08 17:52:15;"Merge pull request #74 from Exscientia/xtb
+
+Implement the xTB for the TorsionDrive"
+post;lpwgroup_crank;b7e5d3869bcce6afa746ec6b5d674a12e9f21201;Jessica Flowers <jessicaflowers@DNa1cb4b6.SUNet>;2023-06-08 22:05:41;"Adding ASE engine
+"
+post;lpwgroup_crank;e5576455173d5d18b276bd26aa418754e8a144ce;jessicaflowers <108426511+jessicaflowers@users.noreply.github.com>;2023-07-03 22:11:53;"Update qm_engine.py
+
+change tdrive.xyz to tdrive_optim.xyz"
+post;lpwgroup_crank;02c1b55cc8fed193a4523a91f3560f251b5eab58;Jessica Flowers <jmflowers@ucdavis.edu>;2023-08-13 16:12:16;"changes to how geometric is called in torsiondrive
+"
+post;lpwgroup_crank;e91f893890db0681204252cd981cdafb7646c8e1;jessicaflowers <108426511+jessicaflowers@users.noreply.github.com>;2023-08-13 16:15:12;"Merge 02c1b55cc8fed193a4523a91f3560f251b5eab58 into 719968c4910f1ecf4f945534acd49c84b47bc8b7
+"
+post;lpwgroup_crank;3a6457c1d0410abe3c14f1bd84a9d45090f79136;Lee-Ping Wang <leeping@ucdavis.edu>;2023-08-20 11:25:36;"Merge pull request #76 from jessicaflowers/add_ase_engine
+
+Adding ASE engine"
+pre;marianattestad_ribbon;5e233a7be5f4177c42adcbd362c57850d54b78be;Maria Nattestad <maria.nattestad@gmail.com>;2017-01-05 20:01:30;"Merge branch 'master' into web-production
+"
+pre;marianattestad_ribbon;db9c332dc5d61c727ce871289adb5ed07158e9e6;Maria Nattestad <maria.nattestad@gmail.com>;2017-01-06 19:19:10;"Add number of split reads and bedpe entry to info.txt download during automation
+"
+pre;marianattestad_ribbon;f2c333cccd9407ea5d64d0eadf1eee22dada12d3;Maria Nattestad <maria.nattestad@gmail.com>;2017-01-06 19:19:30;"Merge branch 'master' into web-production
+"
+pre;marianattestad_ribbon;7f5dd3512938f2b15c7a944de77e837721fe0882;Maria Nattestad <maria.nattestad@gmail.com>;2017-01-06 19:27:34;"Fix bedpe table
+"
+pre;marianattestad_ribbon;44c32f788984fc8fc6bcaa3092a0649603305f68;Maria Nattestad <maria.nattestad@gmail.com>;2017-01-06 19:27:57;"Merge branch 'master' into web-production
+"
+pre;marianattestad_ribbon;24820c0b7a3112306249f16c3a1bc848c7d32c42;Maria Nattestad <maria.nattestad@gmail.com>;2017-02-10 19:25:35;"Quick fix for error on unneeded bam tags with floating point values
+"
+pre;marianattestad_ribbon;94a6943f872293aa9c9c8d7961abc252ce962b27;Nathan S. Watson-Haigh <nathan.haigh@acpfg.com.au>;2017-07-12 07:25:12;"Add support for CSI BAM index files
+"
+pre;marianattestad_ribbon;bc35de1d21889eaac9dba68042936d146a4d1f29;Nathan S. Watson-Haigh <nathan@watsonhaigh.net>;2017-07-13 06:19:57;"Add support for compressed CSI index.
+
+Plus other edits I missed in previous commits.
+"
+pre;marianattestad_ribbon;0c99de5cc93d7a2e5880fe7de9dd82ce7419c289;Maria Nattestad <maria.nattestad@gmail.com>;2017-07-17 16:30:44;"Merge pull request #11 from nathanhaigh/add_csi_support
+
+Add support for CSI BAM index files"
+pre;marianattestad_ribbon;f40050dd481de3e46a647cf6caeb57fb4dc68ae8;Maria Nattestad <maria.nattestad@gmail.com>;2017-10-28 16:43:29;Update README.md
+post;marianattestad_ribbon;1af131e7a53133ac67071916f61afc2d0d012515;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-10-27 23:20:23;"Update file to use tabs for the rest of the file
+"
+post;marianattestad_ribbon;ba1cafe4b147aca6aa6be3c9c1de6d6e33bde2b9;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-10-27 23:50:55;"Switch to using npm dependencies
+"
+post;marianattestad_ribbon;cb8c458ff12b094a11decebf7ad3a18b6c5539f3;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-10-27 23:56:06;"Remove jquery-ui from package.json
+"
+post;marianattestad_ribbon;0995c1ca2adea68e19cf864eeb3b69066b164341;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-10-28 03:56:37;"Pull Request: Use npm package.json (#19)
+
+* Update file to use tabs for the rest of the file
+
+* Switch to using npm dependencies
+
+* Remove jquery-ui from package.json
+"
+post;marianattestad_ribbon;a2bc2364a93f4732115ace3954ff165d1f5a3f4a;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 01:01:18;"Add Aioli to dependencies to handle launching samtools.wasm in WebWorker
+"
+post;marianattestad_ribbon;c6e5da291e772ac6be9ad555a8444d204c3e4e30;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 01:05:26;"Replace calls to bam.js/bam.iobio with WebAssembly logic
+"
+post;marianattestad_ribbon;eab8b765b02dac78e0d3f8215dd6499de487685b;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 01:07:27;"Remove unused bam JS libraries
+"
+post;marianattestad_ribbon;dbb6c4bf048930e8f9cf5f659a7d61590e19f4dc;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 01:13:29;"Cleanup
+"
+post;marianattestad_ribbon;5011fdb99b96786590858b068651a57afb5df6a7;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 03:13:36;"Use updated Aioli version to support lazy mounting of URLs
+"
+post;marianattestad_ribbon;aae2038d2b53aa752bb5b274246a6bacd0a0bc2e;Robert Aboukhalil <robert.aboukhalil@gmail.com>;2019-11-03 04:33:28;"Add wasm binaries
+"
+pre;mirnylab_cooler;4c3641036c70a1dde48aabf2f6ad30acb1689ec1;BAKEZQ <zhongquan789@gmail.com>;2021-02-05 03:07:06;"Merge 3b4b4ac863040d70ec38ac59a913926935c5ab00 into d181fe58738e06e93115fddb0168be9a6de4d003
+"
+pre;mirnylab_cooler;4b125feb5d898feb7d079701a0a226af94d3da85;gfudenberg <geoff.fudenberg@gmail.com>;2021-03-09 00:39:55;"update --balance-args docstring
+
+clarifies how to pass these, also addresses point raised in https://github.com/open2c/cooler/issues/233"
+pre;mirnylab_cooler;a76fba7ff08684ccdc1b6a952d3f1eec884364df;gfudenberg <geoff.fudenberg@gmail.com>;2021-03-09 00:40:56;"Merge 4b125feb5d898feb7d079701a0a226af94d3da85 into d181fe58738e06e93115fddb0168be9a6de4d003
+"
+pre;mirnylab_cooler;5ceaea1ebd27019e0a2dc266867d7fb21e88981c;Nezar Abdennur <nabdennur@gmail.com>;2021-03-13 02:03:06;Update cooler/cli/zoomify.py
+pre;mirnylab_cooler;3d284485df070255f4a904102178b186c14c1cee;gfudenberg <geoff.fudenberg@gmail.com>;2021-03-13 02:03:58;"update --balance-args docstring (#245)
+
+* update --balance-args docstring
+
+clarifies how to pass these, also addresses point raised in https://github.com/open2c/cooler/issues/233
+
+* Update cooler/cli/zoomify.py
+
+Co-authored-by: Nezar Abdennur <nabdennur@gmail.com>"
+pre;mirnylab_cooler;d5441f8cb5c546edbdfeb619fcf9978b9c940199;Nezar Abdennur <nabdennur@gmail.com>;2021-04-01 08:57:21;"Add comment about swap assignment
+"
+pre;mirnylab_cooler;4f885d7c622cb9ce39402e97e25a84a730344bc1;Nezar Abdennur <nabdennur@gmail.com>;2021-04-01 08:57:49;"Add Python 3.9 to CI
+"
+pre;mirnylab_cooler;c36468ac609386dafe0e6e93a120cf25951b06be;Nezar Abdennur <nabdennur@gmail.com>;2021-04-01 08:58:07;"Version bump
+"
+pre;mirnylab_cooler;d6a7d19e5933d5a2a8a31a93bb13c0f06ccb075d;Nezar Abdennur <nabdennur@gmail.com>;2021-04-01 09:12:46;"Update changelog
+"
+pre;mirnylab_cooler;349faf72d9f5317bc5a8d71b60f1ae32d79cb0d2;Nezar Abdennur <nabdennur@gmail.com>;2021-04-01 09:13:31;"Merge branch 'master' into 0.9
+"
+post;mirnylab_cooler;1af4ab0b95422d6496013355bd6ec2ac33a8cadb;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:55:49;"Updates for pending deprecation compatibility
+"
+post;mirnylab_cooler;b3262bce9f7c2d6b9d64cadf6976cbde6532d8ff;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:55:49;"Updates for pending deprecation compatibility
+"
+post;mirnylab_cooler;d4e3455ba758b1b59bba4094c5bd51cd447e099c;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:56:04;"Update logging
+"
+post;mirnylab_cooler;edc5fd9c62e0eafd293edc211b55232ab348a36c;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:56:04;"Update logging
+"
+post;mirnylab_cooler;945715267fa9f3862abc8243756fab2d165a261e;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:57:19;"Swap in brand spanking new query engine
+"
+post;mirnylab_cooler;e8f4ab81dc8aba8a6cd2cb620b9e45a78898887d;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:57:19;"Swap in brand spanking new query engine
+"
+post;mirnylab_cooler;12be64391c97f72104a4c6ead52d876f3a6293d2;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:57:52;"Update gitignore
+"
+post;mirnylab_cooler;761d9ca4b9ad1af4c9805a1336bd8399e066fbc2;Nezar Abdennur <nabdennur@gmail.com>;2021-11-12 21:57:52;"Update gitignore
+"
+post;mirnylab_cooler;5a158146ea1939d706e59f924712b0748306208f;Nezar Abdennur <nabdennur@gmail.com>;2021-11-13 18:37:25;"Update cooler dump to use new query engine
+"
+post;mirnylab_cooler;3439e9c945aca36a4709b361ee4145382e22b38d;Nezar Abdennur <nabdennur@gmail.com>;2021-11-13 18:37:25;"Update cooler dump to use new query engine
+"
+pre;privefl_bigstatsr;8e0a332728b1f182df4582392b57a1664a607097;Florian Privé <florian.prive.21@gmail.com>;2022-03-14 13:04:11;"just to be sure
+"
+pre;privefl_bigstatsr;d949209fd5e0e96b36cacc5e0de9d73fae63bf24;Florian Privé <florian.prive.21@gmail.com>;2022-04-12 12:47:23;"add link to video
+"
+pre;privefl_bigstatsr;d41c74e076ba1890b76dd4b15a461194e1a4634b;Florian Privé <florian.prive.21@gmail.com>;2022-07-28 09:16:18;"typos
+"
+pre;privefl_bigstatsr;25861577f5d242e8bfe541132da311bf6e9a38f8;Florian Privé <florian.prive.21@gmail.com>;2022-07-28 09:23:40;"check out-of-bounds ind.col in big_prodMat()
+close #154
+"
+pre;privefl_bigstatsr;4967076e0400c14505b2dc4423afc6647beb4052;Florian Privé <florian.prive.21@gmail.com>;2022-10-11 06:25:36;"Too much parallelism in big_univLogReg
+close #137
+"
+pre;privefl_bigstatsr;ab145d370c1f976e358ce79ffff7fc5904109406;Florian Privé <florian.prive.21@gmail.com>;2022-10-11 06:58:54;"update website
+"
+pre;privefl_bigstatsr;4e8a0219f2f9d03177eb7e016564205196a4bf8e;Florian Privé <florian.prive.21@gmail.com>;2022-10-11 07:18:40;"try resetting coverage
+"
+pre;privefl_bigstatsr;ae7004b32a82f6a774f86960ccf2639465b03262;Florian Privé <florian.prive.21@gmail.com>;2022-10-11 07:36:35;"set env var in coverage
+"
+pre;privefl_bigstatsr;b5aad37707ada591cf1f11a24df74b79c8562f9c;Florian Privé <florian.prive.21@gmail.com>;2022-10-11 09:15:18;"try adding CODECOV_TOKEN
+"
+pre;privefl_bigstatsr;778ffd44b2bda0715bd345511c3379f4c0b78b26;Florian Privé <florian.prive.21@gmail.com>;2022-10-14 07:28:28;"fixes for CRAN
+"
+post;privefl_bigstatsr;f307d297570d91127f118ce3bd4557a155057e84;Florian Privé <florian.prive.21@gmail.com>;2023-12-13 08:11:40;"add param backingfile
+close #170
+"
+post;privefl_bigstatsr;ab9995f72835bdf4ea1703fe1b1cdb7244cacca2;Andrea Manica <am315@cam.ac.uk>;2024-03-21 16:28:08;"Catch variance equal to zero when scaling
+"
+post;privefl_bigstatsr;bab90141685c0c9a239609754def07e8f19891e9;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 08:05:28;"test near 0
+"
+post;privefl_bigstatsr;3cd2abe7454c275ef8293c2f26c3ae1b27da92e8;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 08:27:33;"final tests + versioning
+"
+post;privefl_bigstatsr;9d991be9bb6e6b595bba5f358f6013585530eb62;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 10:08:04;"minor fix checks
+"
+post;privefl_bigstatsr;72ffb382b42d725ddb7b15ed1f7c6eba4353c05c;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 10:20:12;"update GH actions
+"
+post;privefl_bigstatsr;f2d135ce29412ab31264d72763cc3ca2a255a0bf;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 10:52:23;"restrict to max 2 cores on CRAN
+"
+post;privefl_bigstatsr;f80ed108d28b561e182cf5583c6ba8b2362f03be;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 12:07:28;"annoying deprecated qplot()
+"
+post;privefl_bigstatsr;70729e98e2eb56385163b70198f12adc29771b04;Florian Privé <florian.prive.21@gmail.com>;2024-03-24 14:10:49;"Merge pull request #177 from dramanica/master
+
+Catch variance equal to zero when scaling
+Close #52 "
+post;privefl_bigstatsr;3f8ae1d7124bb4ba8e180c8f694f925f7e0e40cc;Florian Privé <florian.prive.21@gmail.com>;2024-08-26 13:23:26;"do not talk about MROpen anymore
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;a44e4ee4cb9bc1b5c7c6343b5ea10a0a5e2925be;romain.veltz@inria.fr <rveltz>;2022-09-30 14:11:27;"correct test
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;835f74837d9751ca3acdec25ceda77e926335a80;romain veltz <romain.veltz@inria.fr>;2022-10-01 09:57:28;"remove Diffeqbase, use JumpProcesses
+
+refactor
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;c7da153a35653980c337b205c6d67428ecf807d0;romain veltz <romain.veltz@inria.fr>;2022-10-01 09:59:19;"use PreallocationTools, remove autodiff error
+
+add field in PDMPProblem for random generator (not used yet)
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;6c634df616fc3fc67030a8437af7cd316383aafa;romain veltz <romain.veltz@inria.fr>;2022-10-01 12:18:18;"up julia bound
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;18255e382437504a5823f49bb1cfd894d6f7d392;romain veltz <romain.veltz@inria.fr>;2022-10-01 12:39:20;"increase julia lower bound for tests
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;5989ef9779e2342296b16ceedd1bafd4676218dc;romain veltz <romain.veltz@inria.fr>;2022-10-01 21:45:20;"new version
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;435ab63d51cf4de3e6e7c5c891abadf9d41223bb;romain veltz <romain.veltz@inria.fr>;2022-10-01 22:55:52;"add compat
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;a4dce7f18335ac501460128790a7cd8967c72fbb;romain veltz <romain.veltz@inria.fr>;2022-10-04 12:52:38;"add Ncache argument for PreallocationTools
+
+refactor
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;c3851e0df7a70c47a728d0b4bf8239ce0fb59bfa;romain veltz <romain.veltz@inria.fr>;2022-10-04 13:46:53;"remove unused type parameters from solve method
+"
+pre;rveltz_piecewisedeterministicmarkovprocesses.jl;2ac22134bc68da3cc4fae476fec0aaa1e6462d9d;romain veltz <romain.veltz@inria.fr>;2022-10-09 17:46:27;"new version 0.0.7
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;74677f171cf2f500974073a1ad1a78e30e78ae19;romain veltz <romain.veltz@inria.fr>;2024-01-25 23:06:10;"update compat
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;1c1d47c293e6c752088aa39c3fe933a351169aa8;romain veltz <romain.veltz@inria.fr>;2024-02-10 17:00:46;"correct tests
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;8b357c6e821e631d934af73bf9654dd069d48cef;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:07:17;"remove DiffEqBase and DiffEqJump. Add JumpProcesses and SciMLBase
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;857b07d2b12df04cd3c71e1078d1342d28d16af6;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:15:04;"Merge branch 'master' of https://github.com/rveltz/PiecewiseDeterministicMarkovProcesses.jl
+
+# Conflicts:
+#	Project.toml
+#	examples/pdmpExplosion.jl
+#	examples/pdmpStiff.jl
+#	examples/tcp.jl
+#	src/PiecewiseDeterministicMarkovProcesses.jl
+#	src/diffeqwrap.jl
+#	test/pdmpStiff.jl
+#	test/runtests.jl
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;0830ab61c5d0e0acecadfabe1ce411d6a35adbac;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:27:19;"corrige tests
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;0a074f9351a7ca9d42ac5629e31ccccd835cfc48;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:30:35;"refactor
+
+add kwargs to pass to DE
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;5679c4059927e3cc4fede1a1614c3941f35a3d09;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:33:48;"add Preallocationstools to work with ForwardDiff
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;efc4c8aa79e39da72a4c5b6eaad080d9e11d3eb0;romain veltz <romain.veltz@inria.fr>;2024-05-07 12:43:39;"[WIP] add rng to problem
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;d825d04a2e14792c451b8b0302dd90f0b2bab511;romain veltz <romain.veltz@inria.fr>;2024-05-07 13:08:30;"correct test
+
+increase compat Julia
+"
+post;rveltz_piecewisedeterministicmarkovprocesses.jl;f6e29092a0843a5b1d535c4d3d5c761a94fc3706;romain veltz <romain.veltz@inria.fr>;2024-05-07 13:33:56;"increase julia version for testing
+"
+pre;stan-dev_cmdstanpy;48a3e90add8f1d45e189e18c934a7b85de05bd31;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;2024-06-03 15:16:45;"release/v1.2.3: updating version numbers
+"
+pre;stan-dev_cmdstanpy;c72acd0b8123c02b47d5d583bdd7d8408b04562c;Brian Ward <bward@flatironinstitute.org>;2024-06-03 15:45:08;"Update seed-dependent vb tests
+"
+pre;stan-dev_cmdstanpy;c7eb04694b8987a6fb167cf0ec0fd7f9a880a3c0;Brian Ward <bward@flatironinstitute.org>;2024-06-04 14:40:57;"Add rebuild_cmdstan to API doc
+"
+pre;stan-dev_cmdstanpy;4560204fb4b2f207b8165c64e868a0fd0edf0ac0;Brian Ward <bward@flatironinstitute.org>;2024-06-04 14:45:08;"CI fix
+"
+pre;stan-dev_cmdstanpy;ec5cabc2f24e27392c2cea950c9f6ffc8beabd2e;Brian Ward <bward@flatironinstitute.org>;2024-06-05 13:31:47;"Merge pull request #761 from stan-dev/docs/add-rebuild_cmdstan
+
+Add rebuild_cmdstan to API doc"
+pre;stan-dev_cmdstanpy;bdec30c9297467f02a936b8733b2d63da7a7dbcd;Ari Hartikainen <ahartikainen@users.noreply.github.com>;2024-06-17 08:35:36;Scan string true and false in scan_config
+pre;stan-dev_cmdstanpy;61a61c2687f7f4709a5607e9e64c8d62899256e2;Brian Ward <bward@flatironinstitute.org>;2024-06-17 13:38:17;"Add test for csv round-tripping
+"
+pre;stan-dev_cmdstanpy;4fb78da0ee927de0cba9a5ad4fdb52913b0945ac;Brian Ward <bward@flatironinstitute.org>;2024-06-17 13:38:45;"Update changes.rst
+"
+pre;stan-dev_cmdstanpy;dd95ba724364ede3c6f487b76c93c6212eb45370;Brian Ward <bward@flatironinstitute.org>;2024-06-17 14:10:46;"Merge pull request #764 from stan-dev/bugfix/textual_true_false
+
+Scan string true and false in scan_config"
+pre;stan-dev_cmdstanpy;aa7555b7f90408cec429ed1370f4abd488532feb;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;2024-06-17 14:29:22;"release/v1.2.4: updating version numbers
+"
+post;stan-dev_cmdstanpy;57e31bc4b6084d37d16f4ec23e8d4e41c6429254;aphc14 <177544929+aphc14@users.noreply.github.com>;2024-09-15 13:04:22;"added save_single_paths
+"
+post;stan-dev_cmdstanpy;cef008dbecb81440527c3f45d712d78cd3289be5;Brian Ward <bward@flatironinstitute.org>;2024-09-24 14:16:10;Update .pylintrc
+post;stan-dev_cmdstanpy;c5bcfb3164f18c68a6100dd9146721b68c34db80;Brian Ward <bward@flatironinstitute.org>;2024-10-04 19:57:43;"Merge pull request #769 from stan-dev/Pylint-fix
+
+Update .pylintrc"
+post;stan-dev_cmdstanpy;77a16d1b704cf724238fd1e84a0e2044d611dacb;Mitzi Morris <mitzi212@gmail.com>;2024-10-17 14:52:23;"Merge branch 'develop' of https://github.com/stan-dev/cmdstanpy into develop
+"
+post;stan-dev_cmdstanpy;341ea60f810320917836fb6be20f456b323a5760;Brian Ward <bward@flatironinstitute.org>;2024-11-25 15:06:15;"CmdStan 2.36 no longer requires fixed_param hacks
+"
+post;stan-dev_cmdstanpy;34583e3b257f4dd64043bdcfeb6269a20315f13f;Brian Ward <bward@flatironinstitute.org>;2024-11-25 20:25:35;"[debug] Don't fail fast
+
+[ci skip]
+"
+post;stan-dev_cmdstanpy;555cb4c7a2e9bf22c7f8dc78963c591497dc64af;Brian Ward <bward@flatironinstitute.org>;2024-11-25 20:42:53;"Fix test for legacy fixed_param behavior
+"
+post;stan-dev_cmdstanpy;c20a2631707ed1c41d41a6fd601d5aac8671aeba;Brian Ward <bward@flatironinstitute.org>;2024-11-25 20:52:19;"flip conditional
+
+[ci skip]
+"
+post;stan-dev_cmdstanpy;f5cd77d757497daa9eede4c8dd62b7312d8bd7ba;Brian Ward <bward@flatironinstitute.org>;2024-12-02 14:46:30;"Add from_csv test
+"
+post;stan-dev_cmdstanpy;266828c9a38355b3ff02e1f690660e593a55e1b5;Brian Ward <bward@flatironinstitute.org>;2024-12-02 14:58:57;"Test compatibility with 2.35
+"
+pre;thelfer_mfrontgenericinterfacesupport;b8b5ff718bd40782e00a04bfd1c77dea0e883011;Thomas Helfer <thomas.helfer@cea.fr>;2022-02-16 10:51:48;"More work on Issue #50
+"
+pre;thelfer_mfrontgenericinterfacesupport;f76a0c0f1efe73cf26405d1825f8936f3bfa5fb7;Thomas Helfer <thomas.helfer@cea.fr>;2022-02-17 12:16:10;"Add python bindings and tests
+"
+pre;thelfer_mfrontgenericinterfacesupport;3cc67788827e5d043f64375f910401969cb7bb8c;Thomas Helfer <thomas.helfer@cea.fr>;2022-02-17 20:40:30;"Finish tests on post-processings
+"
+pre;thelfer_mfrontgenericinterfacesupport;7323bc8e3a0a3cb001535910b00673c24b577915;Thomas Helfer <thomas.helfer@cea.fr>;2022-02-17 21:18:43;"Fix Issues #50 and #82
+"
+pre;thelfer_mfrontgenericinterfacesupport;e88c8b081509bcbd2a56b1258540eae0e8eb989f;Thomas Helfer <thomas.helfer@cea.fr>;2022-02-28 14:57:46;"Fix Issue #92
+"
+pre;thelfer_mfrontgenericinterfacesupport;36775924260d98a8e5c9aafadf19acfc1a2e970f;Thomas Helfer <thomas.helfer@cea.fr>;2022-03-29 10:48:10;"Fix Issue #95
+"
+pre;thelfer_mfrontgenericinterfacesupport;42609e30a713e35eb563720d23687223eb02c309;Thomas Helfer <thomas.helfer@cea.fr>;2022-05-18 14:53:41;"Fix python bindings
+"
+pre;thelfer_mfrontgenericinterfacesupport;1d314388ceff979dec51d8e42fd465f76cf57ac5;Jeremy Bleyer <jeremy.bleyer@enpc.fr>;2022-06-17 07:43:22;"Formatting
+"
+pre;thelfer_mfrontgenericinterfacesupport;348c7330ab88efa4d790eae3803deb072d59c5ec;Jeremy Bleyer <jeremy.bleyer@enpc.fr>;2022-06-17 07:46:09;"Remove comments
+"
+pre;thelfer_mfrontgenericinterfacesupport;273d02f3c8fd84ab6c9921abdade916e08997e9e;bleyerj <58072043+bleyerj@users.noreply.github.com>;2022-06-17 07:50:07;"Merge pull request #99 from thelfer/tensor-vec-repr
+
+Fixes #98"
+post;thelfer_mfrontgenericinterfacesupport;36c886f26e3aef89d377d43bd35a66ee0415ad9f;Lars Bilke <lars.bilke@ufz.de>;2022-12-02 10:41:47;"web depends on doc target.
+"
+post;thelfer_mfrontgenericinterfacesupport;f9a0eea36bac1f2b25d66a1d5ad36a5d92b3e8d2;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-08 23:54:18;"First work on material properties. Fix Issue #106
+"
+post;thelfer_mfrontgenericinterfacesupport;209ffedae703789d772b07ca89ebfa2f9a78237a;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-09 06:55:50;"Small fix
+"
+post;thelfer_mfrontgenericinterfacesupport;4fb81e0c8a98ae63f256f4834d40ce6c4bc56792;Mathieu Courtois <mathieu.courtois@edf.fr>;2022-12-14 11:08:14;"dtau_ddF is now supported by getRotateArrayOfBehaviourTangentOperatorBlocksFunction
+"
+post;thelfer_mfrontgenericinterfacesupport;49bf1fb884e8c19f248e1b448feddd43b061659a;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-14 12:57:57;"Fix LibrariesManager::getRotateArrayOfBehaviourTangentOperatorBlocksFunction
+"
+post;thelfer_mfrontgenericinterfacesupport;baef771d9749e961f4d5319d80163fd4cb2f5308;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-14 12:58:26;"Merge pull request #107 from mthcrts/mc/pb-gdefmono
+
+dtau_ddF not supported by getRotateArrayOfBehaviourTangentOperatorBlocksFunction"
+post;thelfer_mfrontgenericinterfacesupport;5f5ba9548435841a17ae9f08656b11abab879256;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-15 08:52:40;"Merge pull request #108 from ufz/rliv-2.0-ogs
+
+Some CMake fixes / additions from the OGS project"
+post;thelfer_mfrontgenericinterfacesupport;698814d2291343c0864ca9cd45b0e9963e87f540;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-15 09:01:30;"small fixes
+"
+post;thelfer_mfrontgenericinterfacesupport;9449684d9eedbcb3be0a6f01c626ed641d5ef281;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-15 09:02:53;"small fixes
+"
+post;thelfer_mfrontgenericinterfacesupport;fe49f0e63ca97fedcd48f084d517ecce6eac30a4;Thomas Helfer <thomas.helfer@cea.fr>;2022-12-15 09:21:42;"Fix cmake when TFEL is not available
+"

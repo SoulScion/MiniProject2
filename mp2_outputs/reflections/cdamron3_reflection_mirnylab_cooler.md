@@ -1,0 +1,3 @@
+# Reflection: mirnylab_cooler
+
+Activity is heavily front-loaded from 2015 to 2018 and declined significantly afterward. The longest gap falling in the middle of the slowdown. The gap was easy to interpret as pre-gap commits were a version bump, changelog update, and a CI addition which suggests the end of a release. The first post-gap commits were a large internal refactor that had likely been under development during the quiet period. Recovery was by the same maintainers, so it seems like the absence was planned before the larger changes rather than abandonment. Notably, recent activity is dominated by bots which keeps the project 'active' on GitHub even without much manual development.

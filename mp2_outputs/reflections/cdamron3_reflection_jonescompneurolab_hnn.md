@@ -1,0 +1,3 @@
+# Reflection: jonescompneurolab_hnn
+
+The project shows a clear two-phase pattern: high sustained activity (2017 to 2021) followed by a sharp drop-off and a 13-month silence. This gap was quite hard to interpret from commit messages alone as the last pre-gap commits were documentation edits and something about a WIP, which hint at a larger codebase overhaul happening off the main branch rather than total abandonment. Recovery was driven by new lab members doing build/docker tooling rather than the original feature authors, suggesting the maintainer(s) handed off the work within the research group rather than a project revival by outsiders.

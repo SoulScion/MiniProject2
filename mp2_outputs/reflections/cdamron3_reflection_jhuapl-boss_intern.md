@@ -1,0 +1,3 @@
+# Reflection: jhuapl-boss_intern
+
+Activity is within bursts and declining relative to its early peak as numerous amounts of of feature and bug-fix commits are separated by long quiet stretches. The 5-month gap (2024-01 to 2024-05) was easy to interpret as the last pre-gap commits were a release tag followed by small fixes and CI cleanups. This makes sense as a natural wind-down after finishing a work cycle, and the very first post-gap commit shows the same two maintainers returning when a new bug surfaced. Recovery was fast and did not involve new contributors, suggesting the project is simply low-traffic between requests rather than abandoned.
