@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,MeanResolutionTime_min,Notes
+HasRecovered,100.0,100.0,0.714,0.714,0,0,NA,Recovery classifications were consistent before discussion.
+WhyRecovered,90.0,100.0,NA,NA,1,1,NA,"One explanation was refined after reviewing CI, documentation, and maintenance activity."
+ActivityPattern,50.0,100.0,0.0,0.444,5,5,NA,Trend interpretation caused several disagreements. One was resolved through an Irregular compromise.
+Currentstatus,100.0,100.0,1.0,1.0,0,0,NA,All classifications agreed before discussion after correcting the validation log.
+RecentThemes,60.0,100.0,NA,NA,4,4,NA,Differences involved identifying dominant commit themes and using GitHub rather than WoC commit evidence.
